@@ -2,4 +2,4 @@
 
 - Place: Palembang, Indonesia
 - Bio: Android and Web developer
-- GitHib: [Stevanus-Christian](https://github.com/Stevanus-Christian)
+- GitHub: [Stevanus-Christian](https://github.com/Stevanus-Christian)
