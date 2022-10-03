@@ -1,18 +1,12 @@
 <h1 align="center"> <img src= "https://octodex.github.com/images/original.png" width= "40" /> HacktoberFest 2022 <img src= "https://octodex.github.com/images/original.png" width= "40" /> </h1>
 
-
-
-<div align="center">
-
-<img src= "Assets/Hfest-Logo-2-Color-Manga.png" width= "400"/>
-
 <br> <br>
 
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/MrKrishnaAgarwal/Hacktoberfest2022)
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/stevanus-christian/coding-happiness)
 <img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
 <img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
-<a href=""><img src="https://img.shields.io/github/issues-pr/MrKrishnaAgarwal/hacktoberfest2022" alt="Pull Requests Badge"/></a>
+<a href=""><img src="https://img.shields.io/github/issues-pr/stevanus-christian/coding-happiness" alt="Pull Requests Badge"/></a>
 
 <h4>You can make folders of programming languages and also you can contribute in the repo's below.</h4>
 
