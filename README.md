@@ -34,6 +34,7 @@
 * Fork this repo.
 * Clone the forked repo.
 * Create a new branch.
+* Add your name to `contributors.md`
 * Make changes to the code.
 * Commit the changes.
 * Push the changes to the forked repo.
